@@ -1,0 +1,8 @@
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\bin\Debug\UltimateChatClient.exe.config
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\MainWindow.baml
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\MainWindow.g.cs
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\App.g.cs
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient_MarkupCompile.cache
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.g.resources
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.Properties.Resources.resources
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.csproj.GenerateResource.Cache

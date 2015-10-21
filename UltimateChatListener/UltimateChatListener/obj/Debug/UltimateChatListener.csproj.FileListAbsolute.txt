@@ -1,0 +1,13 @@
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\bin\Debug\UltimateChatListener.exe.config
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\bin\Debug\UltimateChatListener.exe
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\bin\Debug\UltimateChatListener.pdb
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.csprojResolveAssemblyReference.cache
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\MainWindow.baml
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\MainWindow.g.cs
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\App.g.cs
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener_MarkupCompile.cache
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.g.resources
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.Properties.Resources.resources
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.csproj.GenerateResource.Cache
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.exe
+c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.pdb
