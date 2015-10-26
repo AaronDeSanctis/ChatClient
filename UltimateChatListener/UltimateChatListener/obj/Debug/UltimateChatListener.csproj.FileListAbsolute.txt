@@ -11,3 +11,16 @@ c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListene
 c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.csproj.GenerateResource.Cache
 c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.exe
 c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.pdb
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\bin\Debug\UltimateChatListener.exe.config
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.exe
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.pdb
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\MainWindow.baml
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\MainWindow.g.cs
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\App.g.cs
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener_MarkupCompile.cache
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.g.resources
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.Properties.Resources.resources
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.csproj.GenerateResource.Cache
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\bin\Debug\UltimateChatListener.exe
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\bin\Debug\UltimateChatListener.pdb
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatListener\UltimateChatListener\obj\Debug\UltimateChatListener.csprojResolveAssemblyReference.cache

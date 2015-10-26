@@ -6,3 +6,15 @@ c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\
 c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.g.resources
 c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.Properties.Resources.resources
 c:\users\adesanctis_be\documents\visual studio 2013\Projects\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.csproj.GenerateResource.Cache
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\bin\Debug\UltimateChatClient.exe.config
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\MainWindow.baml
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\MainWindow.g.cs
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\App.g.cs
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient_MarkupCompile.cache
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.g.resources
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.Properties.Resources.resources
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.csproj.GenerateResource.Cache
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\bin\Debug\UltimateChatClient.exe
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\bin\Debug\UltimateChatClient.pdb
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.exe
+C:\Users\ADeSanctis_be\Documents\Ultimate\UltimateChatClient\UltimateChatClient\obj\Debug\UltimateChatClient.pdb

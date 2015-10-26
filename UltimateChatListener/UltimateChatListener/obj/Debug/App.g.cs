@@ -63,6 +63,7 @@ namespace UltimateChatListener {
             UltimateChatListener.App app = new UltimateChatListener.App();
             app.InitializeComponent();
             app.Run();
+           
         }
     }
 }

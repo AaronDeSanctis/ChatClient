@@ -3,10 +3,10 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="558.596" Width="744.628">
     <Grid>
-        <TextBox HorizontalAlignment="Left" Height="359" Margin="607,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <TextBox HorizontalAlignment="Left" Height="359" Margin="10,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="592"/>
-        <TextBox HorizontalAlignment="Left" Height="85" Margin="10,434,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="592"/>
-        <TextBox HorizontalAlignment="Left" Height="23" Margin="607,32,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="FriendsList" HorizontalAlignment="Left" Height="359" Margin="607,88,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="FriendsList_TextChanged"/>
+        <TextBox x:Name="ChatText" HorizontalAlignment="Left" Height="359" Margin="10,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="592" TextChanged="ChatText_TextChanged"/>
+        <TextBox x:Name="SendText" HorizontalAlignment="Left" Height="85" Margin="10,434,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="592" TextChanged="SendText_TextChanged"/>
+        <TextBox x:Name="UserName" HorizontalAlignment="Left" Height="23" Margin="607,60,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="UserName_TextChanged"/>
 
     </Grid>
 </Window>
